@@ -17,7 +17,7 @@ California Housing dataset (scikit-learn / StatLib, 1990 US census): 20,640 bloc
 6. **Deployment:** model saved with joblib and served through a web app [Flask - verify]
 
 ## Results
-
+https://github.com/saivenkatboora987-prog/Housing_calprice/blob/main/lr_calhousing.png?raw=true
 
 ## How to run
 ```bash
